@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[HexCenter]]></title>
-  <link href="http://hexcenter.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | HexCenter]]></title>
+  <link href="http://hexcenter.github.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://hexcenter.github.com/"/>
   <updated>2013-03-14T13:07:44+01:00</updated>
   <id>http://hexcenter.github.com/</id>
@@ -29,7 +29,7 @@ This is posted on <a href="http://hexcenter.github.com">HexCenter</a>.</p>
 
 <h4>Another subtitle</h4>
 
-<p>It should be ok now. Let&#8217;s try this shit.</p>
+<p>It should be ok now. Let's try this shit.</p>
 ]]></content>
   </entry>
   
