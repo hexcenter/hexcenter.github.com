@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[HexCenter]]></title>
   <link href="http://hexcenter.github.com/atom.xml" rel="self"/>
   <link href="http://hexcenter.github.com/"/>
-  <updated>2013-03-14T11:19:45+01:00</updated>
+  <updated>2013-03-14T11:26:42+01:00</updated>
   <id>http://hexcenter.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
