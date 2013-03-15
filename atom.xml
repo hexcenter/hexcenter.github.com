@@ -4,7 +4,7 @@
   <title><![CDATA[HexCenter]]></title>
   <link href="http://hexcenter.github.com/atom.xml" rel="self"/>
   <link href="http://hexcenter.github.com/"/>
-  <updated>2013-03-15T10:53:00+01:00</updated>
+  <updated>2013-03-15T11:55:17+01:00</updated>
   <id>http://hexcenter.github.com/</id>
   <author>
     <name><![CDATA[Lucien Zagabe & Pierre Ecormier]]></name>
@@ -12,25 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Testing Octopress' power]]></title>
-    <link href="http://hexcenter.github.com/blog/2013/03/14/testing-octopress-power/"/>
-    <updated>2013-03-14T13:03:00+01:00</updated>
-    <id>http://hexcenter.github.com/blog/2013/03/14/testing-octopress-power</id>
-    <content type="html"><![CDATA[<h2>Getting started</h2>
-
-<p>Okay, so this is a test for markdown, Octopress and categories.
-This is posted on <a href="http://hexcenter.github.com">HexCenter</a>.</p>
-
-<h4>This is a subtitle</h4>
-
-<p>lol</p>
-
-<h3>Another subtitle</h3>
-
-<p>It should be ok now. Let&#8217;s try this shit.</p>
-]]></content>
-  </entry>
   
 </feed>
