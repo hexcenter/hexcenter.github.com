@@ -7,8 +7,9 @@ categories:
 author: Pierre Ecormier
 ---
 
-fewrj weiorfj wioj
-
 Hello, so this blog is finally starting \o/
 
 Hell yeah, this is gonna rock !
+
+
+kgerjg keg eroi
