@@ -7,6 +7,8 @@ categories:
 author: Pierre Ecormier
 ---
 
+Helloo
+
 Hello, so this blog is finally starting \o/
 
 Hell yeah, this is gonna rock !
