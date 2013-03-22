@@ -4,7 +4,7 @@
   <title><![CDATA[HexCenter]]></title>
   <link href="http://hexcenter.github.com/atom.xml" rel="self"/>
   <link href="http://hexcenter.github.com/"/>
-  <updated>2013-03-23T01:43:22+01:00</updated>
+  <updated>2013-03-22T01:46:31+01:00</updated>
   <id>http://hexcenter.github.com/</id>
   <author>
     <name><![CDATA[Lucien Zagabe & Pierre Ecormier]]></name>
@@ -18,15 +18,7 @@
     <link href="http://hexcenter.github.com/blog/2013/03/22/blog-start/"/>
     <updated>2013-03-22T22:40:00+01:00</updated>
     <id>http://hexcenter.github.com/blog/2013/03/22/blog-start</id>
-    <content type="html"><![CDATA[<p>Hello, so this blog is finally starting \o/</p>
-
-<p>Hell yeah, this is gonna rock !</p>
-
-<p>kgerjg keg eroi</p>
-
-<p>fg dig eiorgio</p>
-
-<p>hello world</p>
+    <content type="html"><![CDATA[<p>hello world</p>
 ]]></content>
   </entry>
   
