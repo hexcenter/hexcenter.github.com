@@ -5,7 +5,7 @@ up: update
 
 push:
 	rake gen_deploy
-	git add . && git commit -m "blog" && git push origin source
+	git add -f . && git commit -m "blog" && git push origin source
 
 preview:
 	rake preview
